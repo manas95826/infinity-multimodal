@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "document_date": null,
+    "other_dates": [],
+    "references": {
+      "letters": [
+        {
+          "name": "Contract Agreement",
+          "page_number": 1
+        },
+        {
+          "name": "Certificate Regarding Authenticity of Documents",
+          "page_number": 8
+        },
+        {
+          "name": "DFCCIL's Provisional Letter of Award",
+          "page_number": 9
+        },
+        {
+          "name": "Letter of Acceptance by SLT for Provisional Letter of Award",
+          "page_number": 12
+        },
+        {
+          "name": "Copy of Performance Security submitted by the Contractor",
+          "page_number": 13
+        },
+        {
+          "name": "Letter regarding 'Place of Arbitration'",
+          "page_number": 17
+        },
+        {
+          "name": "Letters from SLT for change in Authorised Signatory of Consortium",
+          "page_number": 18
+        },
+        {
+          "name": "Letters from L&T for change in Authorised Signatory of L&T",
+          "page_number": 28
+        },
+        {
+          "name": "DFCCIL Approval for change in Authorised Signatories of Consortium and L&T",
+          "page_number": 41
+        },
+        {
+          "name": "Letter from DFCCIL for extension of Contract Agreement signing date",
+          "page_number": 42
+        },
+        {
+          "name": "Contractor's Warranty",
+          "page_number": 43
+        },
+        {
+          "name": "Memorandum of Understanding for Subcontracting Agreement",
+          "page_number": null
+        },
+        {
+          "name": "Addenda (including attachments) to Volume I of Bid Documents",
+          "page_number": 198
+        },
+        {
+          "name": "Letters of Pre-qualification & Supplementary PQ Evaluation results from the Employer",
+          "page_number": 165
+        },
+        {
+          "name": "Copy of Demand Draft for Purchase of Bid Documents",
+          "page_number": 171
+        },
+        {
+          "name": "Letter of Tender - Technical Bid (as submitted by the Contractor)",
+          "page_number": 173
+        },
+        {
+          "name": "Bid Evaluation Procedure and Qualification Criteria",
+          "page_number": 175
+        },
+        {
+          "name": "List of Eligible Countries of Japanese ODA STEP Loans",
+          "page_number": 201
+        },
+        {
+          "name": "Appendix to Bid",
+          "page_number": 203
+        },
+        {
+          "name": "Particular Conditions",
+          "page_number": 211
+        }
+      ],
+      "clauses_articles_acts": [],
+      "persons": [
+        {
+          "name": "Dedicated Freight Corridor Corporation of India Ltd.",
+          "role": "Employer",
+          "page_number": 2
+        },
+        {
+          "name": "Soyitz - L&T Consortium",
+          "role": "Contractor",
+          "page_number": 2
+        }
+      ]
+    }
+  },
+  "content": [
+    {
+      "type": "title",
+      "text": "CONTENTS",
+      "page_number": 0,
+      "metadata": {
+        "additional_info": null
+      }
+    },
+    {
+      "type": "table",
+      "text": "|  | PART 1: General | Page |\n| :--: | :--: | :--: |\n| 1. | Contract Agreement ....................................................................... | $1-6$ |\n|  | Page kept blank intentionally..................................................................... | 7 |\n| 2. | Certificate Regarding Authenticity of Documents .................................... | 8 |\n| 3. | DFCCIL's Provisional Letter of Award..................................................... | $9-12$ |\n| 4. | Letter of Acceptance by SLT for Provisional Letter of Award...................... | 12 A |\n| 5. | Copy of Performance Security submitted by the Contractor ................ | $13-16$ |\n| 6. | Letter regarding 'Place of Arbitration' ...................................................... | 17 |\n| 7. | Letters from SLT for change in Authorised Signatory of Consortium............................................................. | $18-27$ |\n| 8. | Letters from L\\&T for change in Authorised Signatory of L\\&T ....................... | $28-40$ |\n| 9. | DFCCIL Approval for change in Authorised Signatories of Consortium and L\\&T............................................................. | 41 |\n| 10. | Letter from DFCCIL for extension of Contract Agreement signing date........... | 42 |\n| 11. | Contractor's Warranty ................................................................................................. | $43-45$ |\n| 12. | (a) Memorandum of Understanding for Subcontracting Agreement <br> (i) Kyosan Electric Manufacturing Co. Ltd............................................ <br> (ii) Systra S.A................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................................",
+      "formatted": "<table><tr><th></th><th>PART 1: General</th><th>Page</th></tr><tr><td>1.</td><td>Contract Agreement ....................................................................... </td><td>1-6</td></tr><tr><td></td><td>Page kept blank intentionally..................................................................... </td><td>7</td></tr><tr><td>2.</td><td>Certificate Regarding Authenticity of Documents .................................... </td><td>8</td></tr><tr><td>3.</td><td>DFCCIL's Provisional Letter of Award..................................................... </td><td>9-12</td></tr><tr><td>4.</td><td>Letter of Acceptance by SLT for Provisional Letter of Award...................... </td><td>12 A</td></tr><tr><td>5.</td><td>Copy of Performance Security submitted by the Contractor ................ </td><td>13-16</td></tr><tr><td>6.</td><td>Letter regarding 'Place of Arbitration' ...................................................... </td><td>17</td></tr><tr><td>7.</td><td>Letters from SLT for change in Authorised Signatory of Consortium............................................................. </td><td>18-27</td></tr><tr><td>8.</td><td>Letters from L&amp;T for change in Authorised Signatory of L&amp;T ....................... </td><td>28-40</td></tr><tr><td>9.</td><td>DFCCIL Approval for change in Authorised Signatories of Consortium and L&amp;T............................................................. </td><td>41</td></tr><tr><td>10.</td><td>Letter from DFCCIL for extension of Contract Agreement signing date........... </td><td>42</td></tr><tr><td>11.</td><td>Contractor's Warranty ................................................................................................. </td><td>43-45</td></tr><tr><td>12.</td><td>(a) Memorandum of Understanding for Subcontracting Agreement <br> (i) Kyosan Electric Manufacturing Co. Ltd............................................ <br> (ii) Systra S.A..................................................................................... </td><td></td></tr></table>",
+      "page_number": 0,
+      "metadata": {
+        "additional_info": "Page numbering indicates potential OCR misreading of ranges (e.g., $1-6$)."
+      }
+    },
+    {
+      "type": "table",
+      "text": "|  | (Part A) | under STEP Component) ................................................................. |  |\n| :--: | :--: | :--: | :--: |\n|  | Schedule 9: <br> (Part B) | List of Local Cost components (items other than to be procured under STEP component) .......................... | $158-159$ |\n|  | (iv) Contract Forms: |  |  |\n|  | a) Form of Mobilization Advance Payment Guarantee......................... |  | 160 |\n|  | b) Form of Dispute Adjudication Board Agreement ........................... |  | 161 |\n|  | c) Form of Retention Money Guarantee ........................................... |  | 162 |\n|  | d) Form of Insurance Requirements ................................................. |  | $163-164$ |\n| 16. | Letters of Pre-qualification \\& Supplementary PQ Evaluation results from the Employer ................................... |  | $165-170$ |\n| 17. | Copy of Demand Draft for Purchase of Bid Documents................................. |  | $171-172$ |\n| 18. | Letter of Tender - Technical Bid (as submitted by the Contractor).................. |  | $173-174$ |\n| 19. | Bid Evaluation Procedure and Qualification Criteria .................................... |  | $175-197$ |\n| 20. | Addenda (including attachments) to Volume I of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. |  | NIL <br> NIL <br> NIL <br> 198 - 200 |\n| 21. | List of Eligible Countries of Japanese ODA STEP Loans............................... |  | $201-202$ |\n| 22. | Appendix to Bid ................................................................................... |  | $203-210$ |\n| 23. | Particular Conditions................................................................................. |  | $211-233$ |\n| 24. | General Conditions............................................................................................. |  | 234 |\n|  | (FIDIC - Federation International Des Ingenieurs Conseils) - Conditions of Contract for Plant and Design-Build for Electrical and Mechanical Plant and for Building and Engineering Works, Designed by the Contractor (Edition 1999)] |  | 234 |\n|  | PART 2: Employer's Requirements: General Specifications - Volume II of Bid Documents |  |  |\n| 25. | Employer's Requirements: General Specifications - Volume II of Bid Documents... |  | $235-428$ |\n| 26. | Addenda (including attachments) to Employer' Requirements - Volume II of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. |  | NIL <br> NIL <br> 429 <br> NIL |\n|  | PART 3A: Employer's Requirements: Particular Specifications - Volume III, Part 1 (Signalling System) of Bid Documents |  |  |\n| 27. | Employer's Requirements: Particular Specifications - Volume III, Part 1 (Signalling System) of Bid Documents... |  | $430-849$ |\n| 28. | Addenda (including attachments) to Particular Specifications - Volume III Part 1 (Signalling System) of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. |  | 850 <br> NIL <br> 851 <br> NIL |\n|  | PART 3B: Employer's Requirements: Particular Specifications - Volume III, Part 2 (Telecommunication System) of Bid Documents |  |  |\n| 29. | Employer's Requirements: Particular Specifications - Volume III, Part 2 (Telecommunication System) of Bid Documents |  | $852-1047$ |",
+      "formatted": "<table><tr><th></th><th>(Part A)</th><th>under STEP Component)</th><th></th></tr><tr><td></td><td>Schedule 9: <br> (Part B)</td><td>List of Local Cost components (items other than to be procured under STEP component)</td><td>158-159</td></tr><tr><td></td><td>(iv) Contract Forms:</td><td></td><td></td></tr><tr><td></td><td>a) Form of Mobilization Advance Payment Guarantee......................... </td><td></td><td>160</td></tr><tr><td></td><td>b) Form of Dispute Adjudication Board Agreement ........................... </td><td></td><td>161</td></tr><tr><td></td><td>c) Form of Retention Money Guarantee ........................................... </td><td></td><td>162</td></tr><tr><td></td><td>d) Form of Insurance Requirements ................................................. </td><td></td><td>163-164</td></tr><tr><td>16.</td><td>Letters of Pre-qualification &amp; Supplementary PQ Evaluation results from the Employer ................................... </td><td></td><td>165-170</td></tr><tr><td>17.</td><td>Copy of Demand Draft for Purchase of Bid Documents................................. </td><td></td><td>171-172</td></tr><tr><td>18.</td><td>Letter of Tender - Technical Bid (as submitted by the Contractor).................. </td><td></td><td>173-174</td></tr><tr><td>19.</td><td>Bid Evaluation Procedure and Qualification Criteria .................................... </td><td></td><td>175-197</td></tr><tr><td>20.</td><td>Addenda (including attachments) to Volume I of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. </td><td></td><td>NIL <br> NIL <br> NIL <br> 198 - 200</td></tr><tr><td>21.</td><td>List of Eligible Countries of Japanese ODA STEP Loans............................... </td><td></td><td>201-202</td></tr><tr><td>22.</td><td>Appendix to Bid ................................................................................... </td><td></td><td>203-210</td></tr><tr><td>23.</td><td>Particular Conditions................................................................................. </td><td></td><td>211-233</td></tr><tr><td>24.</td><td>General Conditions............................................................................................. </td><td></td><td>234</td></tr><tr><td></td><td>(FIDIC - Federation International Des Ingenieurs Conseils) - Conditions of Contract for Plant and Design-Build for Electrical and Mechanical Plant and for Building and Engineering Works, Designed by the Contractor (Edition 1999)</td><td></td><td>234</td></tr><tr><td></td><td>PART 2: Employer's Requirements: General Specifications - Volume II of Bid Documents</td><td></td><td></td></tr><tr><td>25.</td><td>Employer's Requirements: General Specifications - Volume II of Bid Documents...</td><td></td><td>235-428</td></tr><tr><td>26.</td><td>Addenda (including attachments) to Employer' Requirements - Volume II of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. </td><td></td><td>NIL <br> NIL <br> 429 <br> NIL</td></tr><tr><td></td><td>PART 3A: Employer's Requirements: Particular Specifications - Volume III, Part 1 (Signalling System) of Bid Documents</td><td></td><td></td></tr><tr><td>27.</td><td>Employer's Requirements: Particular Specifications - Volume III, Part 1 (Signalling System) of Bid Documents...</td><td></td><td>430-849</td></tr><tr><td>28.</td><td>Addenda (including attachments) to Particular Specifications - Volume III Part 1 (Signalling System) of Bid Documents: <br> (i) Addendum No. 4............................................................................. <br> (ii) Addendum No. 3............................................................................. <br> (iii) Addendum No. 2............................................................................. <br> (iv) Addendum No. 1............................................................................. </td><td></td><td>850 <br> NIL <br> 851 <br> NIL</td></tr><tr><td></td><td>PART 3B: Employer's Requirements: Particular Specifications - Volume III, Part 2 (Telecommunication System) of Bid Documents</td><td></td><td></td></tr><tr><td>29.</td><td>Employer's Requirements: Particular Specifications - Volume III, Part 2 (Telecommunication System) of Bid Documents</td><td></td><td>852-1047</td></tr></table>",
+      "page_number": 1,
+      "metadata": {
+        "additional_info": "Follows page numbers from prior table section."
+      }
+    },
+    {
+      "type": "figure",
+      "text": "Image of contract details",
+      "page_number": 2,
+      "metadata": {
+        "additional_info": null
+      }
+    }
+  ]
+}
